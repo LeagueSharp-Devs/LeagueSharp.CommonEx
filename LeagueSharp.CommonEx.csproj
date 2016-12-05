@@ -8,7 +8,7 @@
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <RootNamespace>LeagueSharp.Common</RootNamespace>
-    <AssemblyName>LeagueSharp.Common</AssemblyName>
+    <AssemblyName>LeagueSharp.CommonEx</AssemblyName>
     <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <PreBuildEvent />
@@ -78,22 +78,22 @@
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="clipper_library">
-      <HintPath>..\..\..\..\..\Program Files (x86)\O46HgaACH\References\clipper_library.dll</HintPath>
+      <HintPath>C:\PS\References\clipper_library.dll</HintPath>
     </Reference>
     <Reference Include="LeagueSharp">
-      <HintPath>..\..\..\..\..\Program Files (x86)\O46HgaACH\References\LeagueSharp.dll</HintPath>
+      <HintPath>C:\PS\References\LeagueSharp.dll</HintPath>
     </Reference>
     <Reference Include="LeagueSharp.Data">
-      <HintPath>..\..\..\..\..\Program Files (x86)\O46HgaACH\References\LeagueSharp.Data.dll</HintPath>
+      <HintPath>C:\PS\References\LeagueSharp.Data.dll</HintPath>
     </Reference>
     <Reference Include="LeagueSharp.Sandbox">
-      <HintPath>..\..\..\..\..\Program Files (x86)\O46HgaACH\System\LeagueSharp.Sandbox.dll</HintPath>
+      <HintPath>C:\PS\System\LeagueSharp.Sandbox.dll</HintPath>
     </Reference>
     <Reference Include="SharpDX">
-      <HintPath>..\..\..\..\..\Program Files (x86)\O46HgaACH\References\SharpDX.dll</HintPath>
+      <HintPath>C:\PS\References\SharpDX.dll</HintPath>
     </Reference>
     <Reference Include="SharpDX.Direct3D9">
-      <HintPath>..\..\..\..\..\Program Files (x86)\O46HgaACH\References\SharpDX.Direct3D9.dll</HintPath>
+      <HintPath>C:\PS\References\SharpDX.Direct3D9.dll</HintPath>
     </Reference>
     <Reference Include="System" />
     <Reference Include="System.Core" />
